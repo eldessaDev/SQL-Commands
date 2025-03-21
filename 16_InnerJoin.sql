@@ -10,6 +10,11 @@
 -- INNER, LEFT AMD RIGHT joins
 -- Selecting using multiples joins
 
+-- Tipo de JOIN	¿Qué devuelve?
+-- INNER JOIN	Solo coincidencias en ambas tablas
+-- LEFT JOIN	Todas las filas de la izquierda y coincidencias de la derecha
+-- RIGHT JOIN	Todas las filas de la derecha y coincidencias de la izquierda
+
 USE coffee_store;
 SHOW TABLES;
 DESCRIBE orders;
