@@ -1,6 +1,11 @@
 -- HOW TO MODIFY A TABLE ALREADY CREATED WITH ALTER 
 
-        ALTER TABLE addresses MODIFY id INT;
+         ALTER TABLE addresses MODIFY id INT;
+
+    -- RENAME TABLE
+        RENAME TABLE clientes TO usuarios;
+
+       
 
     -- ADD A PRIMARY KEY TO A TABLE
         ALTER TABLE addresses ADD PRIMARY KEY(id);

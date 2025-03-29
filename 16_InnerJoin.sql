@@ -29,7 +29,7 @@ SELECT * FROM customers;
 
 -- INNER JOIN SHORT WAY WITH ALIAS
     SELECT p.name, o.order_time FROM orders AS o
-    INNER JOIN products P ON o.product_id = p.id;
+    INNER JOIN products p ON o.product_id = p.id;
 
     SELECT p.name, o.order_tiME FROM orders AS o
     JOIN products p ON o.product_id = p.id
