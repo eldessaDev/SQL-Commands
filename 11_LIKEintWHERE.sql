@@ -5,7 +5,7 @@ SELECT * FROM customers;
 /*
 	% macth any number of characters.
 
-	_ mach just one number.
+	_ mach just one chatacters.
 */
 
 -- RETURN ALL VALUES BEGIN WIN W 

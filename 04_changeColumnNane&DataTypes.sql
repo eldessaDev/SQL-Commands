@@ -10,10 +10,6 @@
             ALTER TABLE pets 
             RENAME COLUMN `animal type` TO species;
 
-        -- RENAME WITH SPACES BUT IS A BAD PRACTICE
-            ALTER TABLE pets
-            RENAME COLUMN species TO `animal type`;
-
     -- CHANGE THE COLUMN DATA TYPE
         -- WAY 1
             ALTER TABLE addresses

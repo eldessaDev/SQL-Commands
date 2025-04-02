@@ -13,6 +13,7 @@
 
     -- SQL SETTING TURN FALSE
             SET sql_safe_updates = false;
+            
 
     -- UPDATE VALUES OF TWO COLUMNS BY name 
             UPDATE products
