@@ -41,4 +41,6 @@ USE products;
 DESCRIBE products;
 SELECT * FROM products;
 
+No connection established fix = go to services on windows en start the service MYSQL80
+
 
