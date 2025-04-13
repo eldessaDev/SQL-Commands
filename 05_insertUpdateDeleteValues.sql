@@ -13,6 +13,9 @@
 
     -- SQL SETTING TURN FALSE
             SET sql_safe_updates = false;
+
+    -- SHOW UPLOADS FILES PATH
+            SHOW VARIABLES LIKE 'secure_file_priv';
             
 
     -- UPDATE VALUES OF TWO COLUMNS BY name 
