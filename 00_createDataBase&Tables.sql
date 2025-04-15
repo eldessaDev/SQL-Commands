@@ -44,3 +44,10 @@ SELECT * FROM products;
 No connection established fix = go to services on windows en start the service MYSQL80
 
 
+-- IMPORT DATA FRO CSV FILE
+LOAD DATA  INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/datos_con_decimales.csv'
+INTO TABLE entrada_salida_dinero
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
