@@ -1,4 +1,7 @@
--- RELATIONSHIPS
+-- ===============
+-- =RELATIONSHIPS=
+-- ===============
+
     -- One to one
     1. One-to-One (1:1)
 One row in table A is related to only one row in table B.

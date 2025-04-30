@@ -1,6 +1,7 @@
---  HOW CREATE QUERYS WITH UNIQUE VALUES
+-- ======================================
+-- =HOW CREATE QUERYS WITH UNIQUE VALUES=
+-- ======================================
 
-        SELECT coffee_origin FROM products;
 
 -- VIEW UNIQUE VALUES
         SELECT DISTINCT coffee_origin FROM products;

@@ -1,3 +1,7 @@
+-- ============
+-- =INNER JOIN=
+-- ============
+
 -- HOW TO SELECT MULTIPLES TABLES
 -- SQL JOINs
 -- DIFERENT TYPES OF JOINs

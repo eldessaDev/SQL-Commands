@@ -1,4 +1,6 @@
---  HOW CREATE DATABASES AND TABLES
+-- =================================
+-- =HOW CREATE DATABASES AND TABLES=
+-- =================================
 
     -- CREATE DATABASE
         CREATE DATABASE coffee_store;

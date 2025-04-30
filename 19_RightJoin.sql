@@ -1,6 +1,6 @@
--- HOE TO USE RIGHT JOINS
-
-USE coffee_store;
+-- =============
+-- =RIGHT JOINS=
+-- =============
 
     SELECT o.*, c.* FROM customers c
     LEFT JOIN orders o ON o.customer_id = c.id

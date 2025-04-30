@@ -1,5 +1,6 @@
-USE coffee_store;
-SELECT * FROM products;
+-- ==========
+-- =ORDER BY=
+-- ==========
 
 -- RETURN ALL VALUES ASC ORDER BY 
         SELECT * FROM products

@@ -1,8 +1,6 @@
--- LIMIT
--- HOW LIMIT THE NUMBER OF ROW RETURNED
-
-USE coffee_store;
-SELECT* FROM customers;
+-- =======
+-- =LIMIT=
+-- =======
 
 -- LIMIT THE NUMBER OF ROW RETURNED
         SELECT * FROM customers

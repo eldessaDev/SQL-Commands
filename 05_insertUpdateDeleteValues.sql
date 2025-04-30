@@ -1,4 +1,6 @@
--- INSERT, UPDATE AND DELETE VALUES
+-- ==================================
+-- =INSERT, UPDATE AND DELETE VALUES=
+-- ==================================
 
     -- INSERT VALUES
             INSERT INTO products (name, price, coffee_origin) 

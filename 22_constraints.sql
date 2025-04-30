@@ -1,4 +1,6 @@
--- CONSTRAINTS
+-- =============
+-- =CONSTRAINTS=
+-- =============
 
     NOT NULL        a column can't contain any null values.
     UNIQUE          a colum can't contain any duplicate values.

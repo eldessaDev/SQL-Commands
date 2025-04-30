@@ -1,5 +1,6 @@
--- HOW TO USE SELECT, WHERE(FIRST STEPS)
-
+-- =======================================
+-- =HOW TO USE SELECT, WHERE(FIRST STEPS)=
+-- =======================================
     -- RETRIEVE 1 COLUMN FROM TABLE
         SELECT last_name FROM customers;
         

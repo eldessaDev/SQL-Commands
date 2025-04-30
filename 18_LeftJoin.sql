@@ -1,4 +1,6 @@
--- HOE TO USE LEFT JOINS
+-- ============
+-- =LEFT JOINS=
+-- ============
 
 USE coffee_store;
 SELECT * FROM orders;

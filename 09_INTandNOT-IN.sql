@@ -1,4 +1,6 @@
--- INT and NOT IN operator
+-- =========================
+-- =INT and NOT IN operator=
+-- =========================
 
         USE coffee_store;
         SELECT * FROM customers;

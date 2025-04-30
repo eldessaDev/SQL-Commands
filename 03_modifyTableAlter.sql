@@ -1,4 +1,6 @@
--- HOW TO MODIFY A TABLE ALREADY CREATED WITH ALTER 
+-- ===================================================
+-- =HOW TO MODIFY A TABLE ALREADY CREATED WITH ALTER =
+-- ===================================================
 
          ALTER TABLE addresses MODIFY id INT;
 

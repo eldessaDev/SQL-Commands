@@ -1,5 +1,6 @@
--- HOW TO CHANGE A COLUMN'S NAME AND DATA TYPE
-
+-- =============================================
+-- =HOW TO CHANGE A COLUMN'S NAME AND DATA TYPE=
+-- =============================================
     -- CHANGE TABLE NAME
 
         -- 1 WAY CHANGE NAME

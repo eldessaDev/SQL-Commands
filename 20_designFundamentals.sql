@@ -1,4 +1,6 @@
--- DESIGN FUNDAMENTALS -- LEVELS OF NORMALIZATION
+-- ================================================
+-- =DESIGN FUNDAMENTALS -- LEVELS OF NORMALIZATION=
+-- ================================================
 
 🔹 First Normal Form (1NF)
 Goal: Eliminate repeating or multi-valued fields (no lists or arrays in a cell).

@@ -1,4 +1,6 @@
--- HOW TO DELETE TABLES FROM A DATABASE
+-- ======================================
+-- =HOW TO DELETE TABLES FROM A DATABASE=
+-- ======================================
 
         -- DELETE TABLE
            DROP TABLE test;

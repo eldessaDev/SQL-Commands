@@ -1,4 +1,8 @@
--- NULL, NOT NULL IN WHERE
+-- =========================
+-- =NULL, NOT NULL IN WHERE=
+-- =========================
+
+
 -- YOU HAVE TO USE is OR is not
 
 USE coffee_store;

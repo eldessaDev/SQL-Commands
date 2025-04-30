@@ -1,8 +1,7 @@
--- INEQUALITY OPERATORS
+-- ======================
+-- =INEQUALITY OPERATORS=
+-- ======================
 
-USE coffee_store;
-
-SELECT * FROM products;
 
 /*
 != ... not equal to.
