@@ -1,6 +1,7 @@
 -- ========================
 -- =LIKE in a WHERE clause=
 -- ========================
+
 USE coffee_store;
 SELECT * FROM customers;
 /*

@@ -2,7 +2,6 @@
 -- =INEQUALITY OPERATORS=
 -- ======================
 
-
 /*
 != ... not equal to.
 <> ... not equal to (i.e. greater than or less than).
